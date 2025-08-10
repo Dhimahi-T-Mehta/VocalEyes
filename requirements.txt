@@ -1,0 +1,29 @@
+# AI
+
+google-generativeai
+google-ai-generativelanguage
+langchain
+langchain-core
+langchain-google-genai
+
+# Speech
+
+murf
+requests
+
+# Document Processing
+
+pdfplumber
+
+# User Interface
+
+ipywidgets
+
+# Jupyter Notebook
+
+ipython
+notebook
+
+# Environment Variables
+
+python-dotenv
