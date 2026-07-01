@@ -123,7 +123,7 @@ Natural Audio Output
 
 **Dhimahi T. Mehta**
 
-Final Year B.E. Computer Engineering Student
+Final Year B.E. Information Technology Student
 
 ---
 
